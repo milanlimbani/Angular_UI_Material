@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentAdminProtal.api", "StudentAdminProtal.api\StudentAdminProtal.api.csproj", "{632CD6E8-7209-458B-92DE-895EB21E89E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{632CD6E8-7209-458B-92DE-895EB21E89E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{632CD6E8-7209-458B-92DE-895EB21E89E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{632CD6E8-7209-458B-92DE-895EB21E89E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{632CD6E8-7209-458B-92DE-895EB21E89E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C1CA87C-9741-46C9-B538-4CC4432A42AE}
+	EndGlobalSection
+EndGlobal
